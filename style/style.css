@@ -1,0 +1,52 @@
+.contenedor{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.caja{
+    width: 310px;
+    background-color: blue;
+    margin: 10px;   
+}
+.subcaja{
+    width: 80px;
+    height: 130px;
+    background-color: bisque;
+    display: inline-block;
+    margin: 10px;
+}
+.subcaja2{
+    width: 290px;
+    height: 130px;
+    background-color: bisque;
+    margin: 10px;
+}
+.subcaja-1{
+    width: 80px;
+    height: 130px;
+    background-color: bisque;
+    display: inline-flex;
+    margin: 10px;
+}
+.subcaja-2{
+    width: 80px;
+    height: 130px;
+    background-color: bisque;
+    display: inline-block;
+    margin: 10px;
+}
+.subcaja-3{
+    width: 80px;
+    height: 130px;
+    background-color: bisque;
+    display: inline-block;
+    margin: 10px;
+}
+.subcaja-4{
+    width: 80px;
+    height: 130px;
+    background-color: bisque;
+    display: inline-block;
+    margin: 10px;
+}
